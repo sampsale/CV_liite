@@ -23,26 +23,28 @@ Customer service and sales (chat/phone/email/social media) to B2C- and B2B-custo
 
 **Main focus:** data engineering, data parsing and processing, databases, data platforms, automation, and workflow optimization.
 
-**Python / PySpark:** fluent
+**Python / PySpark: (fluent)**
 Primary toolset for data processing, parsing, validation, transformations, and pipeline logic.
 
-**SQL:** fluent
+**SQL: (fluent)**
 Experience with PostgreSQL, Oracle, Hive SQL, and Impala. Practical work with relational data models, query optimization, JSON/JSONB structures, audit/log tables, and data warehouse style development.
 
-**Apache / Hadoop ecosystem:** practical production experience
+**Apache / Hadoop ecosystem: (practical production experience)**
 Airflow, Spark, Hive, Impala, HDFS, Iceberg, and Hadoop-based data platform development.
 
-**Airflow:** practical production experience
+**Airflow: (practical production experience)**
 DAG management, scheduling, dependencies, parameterized runs, error handling, and orchestration of production data pipelines.
 
-**Databases and integrations:** strong interest and practical experience
+**Databases and integrations: (strong interest and practical experience)**
 PostgreSQL, Oracle, JDBC connections, APIs, schemas, migrations, auditability, and data quality management.
 
-**Linux / Git:** fluent
-Debian and Ubuntu environments, command-line work, version control, branching, rebasing, merge conflicts, and CI/CD workflows.
+**Linux: (fluent)**
+Debian and Ubuntu environments, command-line work, shell usage, file permissions, services, logs, and general server/workstation troubleshooting.
 
-**Automation and development tools:** active user
-Jenkins, GitHub Copilot, ChatGPT, and other AI-assisted development tools. Areas of interest include APIs, big data, optimization, databases, RPA, and practical automation.
+**Development workflow and tooling: (varying levels of practical experience)**
+Practical experience with the usual supporting tools around professional software development, including Git/version control, repository management, CI/CD, SonarQube, Atlassian, AI-assisted development tools, test automation and related workflow tooling.
+
+**Areas of interest:**: APIs, big data, optimization, databases, RPA, automation, and practical use of AI-assisted development.
 
 **Other programming languages and technologies:**
 * Basic Java. Fluent JavaScript, HTML, and CSS from earlier frontend experience.

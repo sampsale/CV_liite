@@ -21,26 +21,28 @@ Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että 
 
 **Pääpaino:** data engineering, datan parsinta ja käsittely, tietokannat, data-alustat, automaatio ja työnkulkujen optimointi.
 
-**Python / PySpark:** sujuva
+**Python / PySpark: (sujuva)**
 Pääasiallinen työkalupakki datan käsittelyyn, parsintaan, validointiin, transformaatioihin ja pipeline-logiikkaan.
 
-**SQL:** sujuva
+**SQL: (sujuva)**
 PostgreSQL, Oracle, Hive SQL ja Impala. Kokemusta relaatiomallinnuksesta, kyselyoptimoinnista, JSON/JSONB-rakenteista, auditointi- ja lokitauluista sekä tietovarastotyyppisestä kehityksestä.
 
-**Apache / Hadoop-ekosysteemi:** käytännön työkokemus
+**Apache / Hadoop-ekosysteemi: (käytännön työkokemus)**
 Airflow, Hive, Impala, HDFS, Spark, Iceberg ja Hadoop-ympäristöihin liittyvä tuotantokehitys.
 
-**Airflow:** käytännön työkokemus
+**Airflow: (käytännön työkokemus)** 
 DAG-hallinta, ajastukset, riippuvuudet, parametrisoidut ajot, virheenkäsittely ja tuotantoputkien orkestrointi.
 
-**Tietokannat ja integraatiot:** vahva kiinnostus ja käytännön kokemus
+**Tietokannat ja integraatiot: (vahva kiinnostus ja käytännön kokemus)**
 PostgreSQL, Oracle, JDBC-yhteydet, rajapinnat, skeemat, migraatiot, auditointi ja datan laadunhallinta.
 
-**Linux / Git:** sujuva
-Debian- ja Ubuntu-ympäristöt, komentorivityöskentely, versionhallinta, haarat, rebaset, merge-konfliktit ja CI/CD-työnkulut.
+**Linux: (sujuva)**
+Debian- ja Ubuntu-ympäristöt, komentorivityöskentely, shell-käyttö, tiedosto-oikeudet, palvelut, lokit sekä yleinen palvelin- ja työasemaympäristöjen vian selvittäminen.
 
-**Automaatio ja kehitystyökalut:** aktiivinen käyttäjä
-Jenkins, GitHub Copilot, ChatGPT ja muut AI-avusteiset työkalut. Kiinnostuksenkohteita ovat API:t, big data, optimointi, tietokannat, RPA ja käytännönläheinen automaatio.
+**Kehitystyönkulut ja työkalut: (vaihteleva käytännön työkokemus)**
+Käytännön kokemusta ohjelmistokehityksen yleisistä tukityökaluista, kuten Gitistä ja versionhallinnasta, repositorioiden hallinnasta, CI/CD-työnkuluista, SonarQubesta, Atlassian-työkaluista, AI-avusteisista kehitystyökaluista, testiautomaatiosta ja muista kehitystyönkulkuihin liittyvistä työkaluista.
+
+**Kiinnostuksen kohteita:**: big data, optimointi, tietokannat, RPA ja tekoälylähtöinen kehitys.
 
 **Muut ohjelmointikielet ja teknologiat:**
 * Java perusteet. JavaScript, HTML ja CSS sujuva aiemman frontend-kokemuksen kautta.
