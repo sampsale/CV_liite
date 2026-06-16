@@ -18,22 +18,6 @@ Customer service and sales (chat/phone/email/social media) to B2C- and B2B-custo
 2021: Updating and migrating Yle Learning assignments and learning articles to a new platform, social media moderation (Twitter, IG, FB)
 2022: Updating the contents of Digitreeni-articles, meant to help people with digital devices and software 
 
-### Other experience
-
-**Kansaneläkelaitos:** 02/2020-05/2020:
-Benefits Officer  -- 
-Opening, sorting, and redirecting incoming applications and other mail
-
-**Verohallinto:** 06/2017-07/2017:
-Digitization of tax returns
-
-**Posti:** 12/2015, 03/2016, 06/2016-08/2016 (part-time):
-Mail Sorter -- 
-Digital and physical sorting of incoming mail
-
-**Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
-Process Operator --
-Oversight and maintenance of industrial machinery, logistics, quality control, documentation
 
 ## Technologies
 
@@ -96,3 +80,20 @@ Education
 **Haaga-Helia University of Applied Sciences, Degree Programme in Business Information Technology**: 2016-2017, 2020-2022
 
 Studies focused on software development, databases, server environments, and data-related technologies. Key areas included relational databases and SQL, Python, Java, JavaScript, server-side development, Linux and Windows servers, software projects, AI fundamentals, data processing, and cloud fundamentals.
+
+## Other experience
+
+**Kansaneläkelaitos:** 02/2020-05/2020:
+Benefits Officer  --
+Opening, sorting, and redirecting incoming applications and other mail
+
+**Verohallinto:** 06/2017-07/2017:
+Digitization of tax returns
+
+**Posti:** 12/2015, 03/2016, 06/2016-08/2016 (part-time):
+Mail Sorter --
+Digital and physical sorting of incoming mail
+
+**Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
+Process Operator --
+Oversight and maintenance of industrial machinery, logistics, quality control, documentation
