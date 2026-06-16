@@ -43,7 +43,7 @@ Debian- ja Ubuntu-ympäristöt, komentorivityöskentely, versionhallinta, haarat
 Jenkins, GitHub Copilot, ChatGPT ja muut AI-avusteiset työkalut. Kiinnostuksenkohteita ovat API:t, big data, optimointi, tietokannat, RPA ja käytännönläheinen automaatio.
 
 **Muut ohjelmointikielet ja teknologiat:**
-* Basic Java. Fluent JavaScript, HTML, and CSS from earlier frontend experience.
+* Java perusteet. JavaScript, HTML ja CSS sujuva aiemman frontend-kokemuksen kautta.
 
 * Frontend-kokemusta JavaScriptillä, Reactilla, D3:lla, HTML:llä ja CSS:llä, mutta nykyinen ammatillinen painopiste on data engineeringissä.
 
